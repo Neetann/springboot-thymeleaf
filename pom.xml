@@ -55,7 +55,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>springboot-thymeleaf-crud-web-app</finalName>
+		<finalName>springbootThymeleaf</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
